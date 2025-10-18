@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+.bgi{
+    width: 100%;
+    height: 100%;
+    background-color: #3c0d0d;
+    background-image: url("https://preview.redd.it/qjmxljv67my01.jpg?auto=webp&s=6bca61e5c1bd6d10b13f5b07f4bafe2d8aa44334");
+    background-position: center;
+    background-size: cover;
+}
